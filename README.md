@@ -40,6 +40,26 @@ Work with geospatial data to find points within a radius, bounding boxes, and di
 
 Integrate predictive models for forecasting and anomaly detection within queries.
 
+### 🔹 [JSON & Arrays](json_arrays.md)
+
+Filter and manipulate JSON fields and array data types.
+
+### 🔹 [User-defined Functions (UDFs)](user_defined_functions.md)
+
+Define and use custom functions to extend SQLY’s capabilities.
+
+### 🔹 [Performance Optimization](performance.md)
+
+Learn techniques to optimize query execution and improve efficiency.
+
+### 🔹 [Advanced Debugging](debugging.md)
+
+Enable query tracing, logging, and error handling for efficient debugging.
+
+### 🔹 [SQLY Extensions](extensions.md)
+
+Explore custom functions, external data sources, and event-driven triggers.
+
 ## 🚀 Getting Started
 
 To start using SQLY, check out the [Basics](basics.md) section and explore examples.
